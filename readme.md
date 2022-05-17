@@ -4,6 +4,9 @@ This capstone classifies a prescription drug using an image of the pill on top o
 
 This is a demonstration of Artificial Intelligence and Machine learning for an academic project. This project should be used for nothing else than a demonstration and an academic project. Under no circumstances should you rely on this project to identify prescription pills you or someone else intend on using. The outputs of this project should not aid anyone in identifying prescription pills, and the results should be used as a reference value only. 
 
+## Sample Output
+![alt text](https://github.com/WillDeveloped/PrescriptionDrugClassifier/blob/main/SampleOutput.png?raw=true)
+
 ## Colab vs Notebook
 
 I recommend running this in colab, otherwise you'll have to adjust the cv2_imshow(img) lines to be cv2.imshow('img.jpg', 'Title of Image'). There are alot of outputs, so the best bet would be to run the colab file. 
@@ -31,3 +34,4 @@ Habib Matar
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) Feel free to use, build on, take code from. 
+
