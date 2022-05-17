@@ -11,7 +11,7 @@ This is a demonstration of Artificial Intelligence and Machine learning for an a
 
 I recommend running this in colab, otherwise you'll have to adjust the cv2_imshow(img) lines to be cv2.imshow('img.jpg', 'Title of Image'). There are alot of outputs, so the best bet would be to run the colab file. 
 
-colab url: https://colab.research.google.com/drive/11r3lZHzlRFXjx_bZJoiCPpmJuB9ibAZR?usp=sharing
+
 
 
 ## How to use
