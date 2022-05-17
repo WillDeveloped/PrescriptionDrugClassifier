@@ -1,6 +1,6 @@
-#  Prescription Pill Identification - William Glover Capstone AIM240
+#  Prescription Pill Identification 
 
-This capstone classifies a prescription drug using an image of the pill on top of a solid colored background. It outputs the confidence level of the classification as well. 
+This project classifies a prescription drug using an image of the pill on top of a solid colored background. It outputs the confidence level of the classification, and the classification of each feature. 
 
 This is a demonstration of Artificial Intelligence and Machine learning for an academic project. This project should be used for nothing else than a demonstration and an academic project. Under no circumstances should you rely on this project to identify prescription pills you or someone else intend on using. The outputs of this project should not aid anyone in identifying prescription pills, and the results should be used as a reference value only. 
 
